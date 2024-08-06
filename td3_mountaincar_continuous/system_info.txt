@@ -1,0 +1,9 @@
+- OS: Linux-5.15.0-113-generic-aarch64-with-glibc2.35 # 123-Ubuntu SMP Mon Jun 10 08:16:46 UTC 2024
+- Python: 3.10.12
+- Stable-Baselines3: 2.3.2
+- PyTorch: 2.3.1
+- GPU Enabled: False
+- Numpy: 1.26.4
+- Cloudpickle: 1.6.0
+- Gymnasium: 0.29.1
+- OpenAI Gym: 0.19.0
